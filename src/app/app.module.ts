@@ -40,7 +40,7 @@ import { HeaderComponent } from './header/header.component';
 import { RegisterComponent } from './register/register.component';
 import { FooterComponent } from './footer/footer.component';
 
-import { ConfirmEqualValidatorDirective } from './_services/confirm-equal-validator.directive';
+import { ConfirmEqualValidatorDirective } from './_directives/confirm-equal-validator.directive';
 
 
 @NgModule({
